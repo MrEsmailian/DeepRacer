@@ -207,7 +207,7 @@ if __name__ == '__main__':
     speed = 1
     print('=' * 60)
     for data_shape in [50, 100, 200, 500]:
-        dataset = load_images_from_folder(f'.\\Data\\500.500', data_shape)
+        dataset = load_images_from_folder(f'Data\\all\\', data_shape)
         start = time.time()
         frames, labels = detect_signs(f_count, speed, dataset, data_shape, False)
         save_results(labels, f'.\\Results\\{data_shape}.txt', time.time() - start, f_count)
