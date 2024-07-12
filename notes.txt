@@ -1,0 +1,16 @@
+1. diffrence between two similar images is important
+2. spead is judt looosing frames
+3. tedad bala order aks
+4. compression between ocrs
+5. porreza
+6. kaji ro ba masir saf mikonim
+7. Data usage
+8. clear background
+
+
+
+Timing
+4:30 -> Ready results
+5:00 -> Ready loop
+6:00 -> Ready all results for  all videos
+9:00 -> Moghadame
